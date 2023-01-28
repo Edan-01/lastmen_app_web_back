@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "bfeb77ce-afd8-4fc5-bfc2-771a07a07c29": {
+      "ProjectGuid": "bfeb77ce-afd8-4fc5-bfc2-771a07a07c29",
+      "DisplayName": "ejemplo_rest_api",
+      "ColorIndex": 0
+    },
+    "6a21df87-ca57-4518-9d4c-b6fed6580d0a": {
+      "ProjectGuid": "6a21df87-ca57-4518-9d4c-b6fed6580d0a",
+      "DisplayName": "MContabilidad",
+      "ColorIndex": 1
+    },
+    "9a0a3c00-4520-46df-b2a3-b6a365deb3fd": {
+      "ProjectGuid": "9a0a3c00-4520-46df-b2a3-b6a365deb3fd",
+      "DisplayName": "Modelos",
+      "ColorIndex": 2
+    },
+    "537df11d-232c-4f15-a64d-c886edba6e2a": {
+      "ProjectGuid": "537df11d-232c-4f15-a64d-c886edba6e2a",
+      "DisplayName": "Repositorio",
+      "ColorIndex": 3
+    },
+    "5e123a9b-8525-4521-8859-c6b142635dcd": {
+      "ProjectGuid": "5e123a9b-8525-4521-8859-c6b142635dcd",
+      "DisplayName": "Logica",
+      "ColorIndex": 4
+    },
+    "3cc32663-b7ba-4bc9-8a39-3c870af05b5a": {
+      "ProjectGuid": "3cc32663-b7ba-4bc9-8a39-3c870af05b5a",
+      "DisplayName": "PersonalApi",
+      "ColorIndex": 5
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 6
+}

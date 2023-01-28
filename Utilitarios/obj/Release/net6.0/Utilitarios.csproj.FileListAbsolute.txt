@@ -1,0 +1,12 @@
+D:\PROYECTO\APP WEB\BackendLastmen\Utilitarios\bin\Release\net6.0\Utilitarios.deps.json
+D:\PROYECTO\APP WEB\BackendLastmen\Utilitarios\bin\Release\net6.0\Utilitarios.dll
+D:\PROYECTO\APP WEB\BackendLastmen\Utilitarios\bin\Release\net6.0\Utilitarios.pdb
+D:\PROYECTO\APP WEB\BackendLastmen\Utilitarios\obj\Release\net6.0\Utilitarios.csproj.AssemblyReference.cache
+D:\PROYECTO\APP WEB\BackendLastmen\Utilitarios\obj\Release\net6.0\Utilitarios.GeneratedMSBuildEditorConfig.editorconfig
+D:\PROYECTO\APP WEB\BackendLastmen\Utilitarios\obj\Release\net6.0\Utilitarios.AssemblyInfoInputs.cache
+D:\PROYECTO\APP WEB\BackendLastmen\Utilitarios\obj\Release\net6.0\Utilitarios.AssemblyInfo.cs
+D:\PROYECTO\APP WEB\BackendLastmen\Utilitarios\obj\Release\net6.0\Utilitarios.csproj.CoreCompileInputs.cache
+D:\PROYECTO\APP WEB\BackendLastmen\Utilitarios\obj\Release\net6.0\Utilitarios.dll
+D:\PROYECTO\APP WEB\BackendLastmen\Utilitarios\obj\Release\net6.0\refint\Utilitarios.dll
+D:\PROYECTO\APP WEB\BackendLastmen\Utilitarios\obj\Release\net6.0\Utilitarios.pdb
+D:\PROYECTO\APP WEB\BackendLastmen\Utilitarios\obj\Release\net6.0\ref\Utilitarios.dll

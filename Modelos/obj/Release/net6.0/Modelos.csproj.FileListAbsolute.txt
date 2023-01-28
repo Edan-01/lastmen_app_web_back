@@ -1,0 +1,14 @@
+D:\PROYECTO\APP WEB\BackendLastmen\Modelos\bin\Release\net6.0\Modelos.deps.json
+D:\PROYECTO\APP WEB\BackendLastmen\Modelos\bin\Release\net6.0\Modelos.runtimeconfig.json
+D:\PROYECTO\APP WEB\BackendLastmen\Modelos\bin\Release\net6.0\Modelos.dll
+D:\PROYECTO\APP WEB\BackendLastmen\Modelos\bin\Release\net6.0\Modelos.pdb
+D:\PROYECTO\APP WEB\BackendLastmen\Modelos\obj\Release\net6.0\Modelos.csproj.AssemblyReference.cache
+D:\PROYECTO\APP WEB\BackendLastmen\Modelos\obj\Release\net6.0\Modelos.GeneratedMSBuildEditorConfig.editorconfig
+D:\PROYECTO\APP WEB\BackendLastmen\Modelos\obj\Release\net6.0\Modelos.AssemblyInfoInputs.cache
+D:\PROYECTO\APP WEB\BackendLastmen\Modelos\obj\Release\net6.0\Modelos.AssemblyInfo.cs
+D:\PROYECTO\APP WEB\BackendLastmen\Modelos\obj\Release\net6.0\Modelos.csproj.CoreCompileInputs.cache
+D:\PROYECTO\APP WEB\BackendLastmen\Modelos\obj\Release\net6.0\Modelos.dll
+D:\PROYECTO\APP WEB\BackendLastmen\Modelos\obj\Release\net6.0\refint\Modelos.dll
+D:\PROYECTO\APP WEB\BackendLastmen\Modelos\obj\Release\net6.0\Modelos.pdb
+D:\PROYECTO\APP WEB\BackendLastmen\Modelos\obj\Release\net6.0\Modelos.genruntimeconfig.cache
+D:\PROYECTO\APP WEB\BackendLastmen\Modelos\obj\Release\net6.0\ref\Modelos.dll
